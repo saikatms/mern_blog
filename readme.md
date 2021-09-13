@@ -1,8 +1,8 @@
 ## MERN Blog Application 🚀🚀🚀
 
-⚠ **Update 13th September 2021** : React and NodeJS packaged updated/fixed using `npm audit`, Packages updated may have breaking changes, If running the code in this repo causes any issues, send me an e-mail ⚠
+⚠ **Update 13th September 2021** : React and NodeJS packaged updated/fixed using `npm audit`, Packages updated may have breaking changes, If running the code in this repo causes any issues, send me an e-mail at saikatm1997@gmail.com ⚠
 
-Minimalistic, ready-to-use component for Sessions based Login and Sign-Up using Reactjs, Redux, Bootstrap Node.js + Express and MongoDB, can be used as a starting point for another project that needs authentication.
+Minimalistic, ready-to-use component for Sessions based Login, Sign-Up, Create post, Delete Post, Comment on Posts, Update Profile Picture, Follow User, Unfolow User, Forget Password etc using Reactjs, Context API, Node.js + Express and MongoDB, can be used as a starting point for another project that needs authentication and other CRUD projects.
 
 ## Features
 
