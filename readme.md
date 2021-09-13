@@ -1,6 +1,6 @@
 ## MERN Blog Application 🚀🚀🚀
 
-⚠ **Update 3rd April 2021** : React and NodeJS packaged updated/fixed using `npm audit`, Packages updated may have breaking changes, If running the code in this repo causes any issues, send me an e-mail ⚠
+⚠ **Update 13th September 2021** : React and NodeJS packaged updated/fixed using `npm audit`, Packages updated may have breaking changes, If running the code in this repo causes any issues, send me an e-mail ⚠
 
 Minimalistic, ready-to-use component for Sessions based Login and Sign-Up using Reactjs, Redux, Bootstrap Node.js + Express and MongoDB, can be used as a starting point for another project that needs authentication.
 
